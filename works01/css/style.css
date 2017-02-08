@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/backgroundmain_0_3.png);
+	width: 100%;
+	font-family: "Times New Roman", "宋体", "arial";
+	color: #000000;
+	font-size: 12px;
+	margin: 0 auto;
+	background-repeat: repeat-x;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #999999;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+.rr:link{
+	color: #d24105;
+	text-decoration: none;
+}
+.rr:visited{
+	color: #d24105;
+	text-decoration: none;
+}
+.rr:hover{
+	color: #d24105;
+	text-decoration: none;
+}
+.rr:active{
+	color: #d24105;
+	text-decoration: none;
+}
+
+.al:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.al:visited{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.al:hover{
+	color: #b4d2e6;
+	text-decoration: none;
+}
+
+.a2:link{
+	color: #2873a5;
+	text-decoration: none;
+}
+.a2:hover{
+	color: #2873a5;
+	text-decoration: none;
+}
+
+
+.a3:link{
+	color: #000000;
+	text-decoration: none;
+}
+.a3:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
